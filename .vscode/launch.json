@@ -37,7 +37,10 @@
 		},
 		{
 			"label": "u_escopo1"
+		},
+		{
+			"label": "u_operador"
 		}
 	],
-	"lastProgramExecuted": "u_escopo1"
+	"lastProgramExecuted": "u_operador"
 }
