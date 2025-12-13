@@ -40,7 +40,13 @@
 		},
 		{
 			"label": "u_operador"
+		},
+		{
+			"label": "u_operadores"
+		},
+		{
+			"label": "u_estrutur"
 		}
 	],
-	"lastProgramExecuted": "u_operador"
+	"lastProgramExecuted": "u_estrutur"
 }
