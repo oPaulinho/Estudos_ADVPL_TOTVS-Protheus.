@@ -52,7 +52,10 @@
 		},
 		{
 			"label": "u_estrrep"
+		},
+		{
+			"label": "u_avetor"
 		}
 	],
-	"lastProgramExecuted": "u_estrrep"
+	"lastProgramExecuted": "u_avetor"
 }
