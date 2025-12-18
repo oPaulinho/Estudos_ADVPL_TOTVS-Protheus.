@@ -55,7 +55,11 @@
 		},
 		{
 			"label": "u_avetor"
+		},
+		{
+			"label": "u_avetor2"
 		}
 	],
-	"lastProgramExecuted": "u_avetor"
+	"lastProgramExecuted": "u_avetor2",
+	"lastProgramArguments": []
 }
