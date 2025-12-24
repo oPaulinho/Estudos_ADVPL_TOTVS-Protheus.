@@ -58,8 +58,11 @@
 		},
 		{
 			"label": "u_avetor2"
+		},
+		{
+			"label": "u_bloco"
 		}
 	],
-	"lastProgramExecuted": "u_avetor2",
+	"lastProgramExecuted": "u_bloco",
 	"lastProgramArguments": []
 }
