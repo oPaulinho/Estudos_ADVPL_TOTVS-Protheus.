@@ -61,8 +61,11 @@
 		},
 		{
 			"label": "u_bloco"
+		},
+		{
+			"label": "u_ADIVINHA"
 		}
 	],
-	"lastProgramExecuted": "u_bloco",
+	"lastProgramExecuted": "u_ADIVINHA",
 	"lastProgramArguments": []
 }
