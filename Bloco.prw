@@ -10,5 +10,6 @@ Local bBloco := {||Alert("Olá Mundo!")}
     //Passagem por parâmetros - Bloco de códigos
     Local bBloco := {|cMsg|Alert(cMsg)}
         Eval (bBloco,"Olá Mundo!")
+        
 
 return
